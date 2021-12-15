@@ -7,7 +7,7 @@ int main(){
     cin >> n >> l >> r;
 
     int a[n];
-    int result = 0;
+    long long result = 0;
 
     for(int i = 0; i < n; i++){
         int x;

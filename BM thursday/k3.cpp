@@ -18,6 +18,7 @@ int main(){
             }
         }
     }
+    swap(a[n-2], a[0]);
     cout << a[n - 1] << endl;
     return 0;
 }
